@@ -1,0 +1,11 @@
+node_modules
+client/node_modules
+relay/node_modules
+client/dist
+relay/dist
+server/.lake
+cypress
+.git
+.github
+*.md
+.vscode
